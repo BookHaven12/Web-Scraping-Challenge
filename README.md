@@ -18,4 +18,4 @@ Finally, I created data visualizations using Matplotlib, including bar charts an
 * Trend Analysis
 
 
-For this assignment I received help from Brian Perry (TA) on the extracting all the rows in part 2 mars weather.  I also worked with my tutor Angel to create a a more advanced code that extracts botht the header and the data from the Mars table. I used the following class examples from Module 11 Data Collection day 3 for my code: #5 news_solution and #6 mars_facts_scrape_solution.  
+For this assignment I received help from Brian Perry (TA) on extracting all the rows in part 2 mars weather.  I also worked with my tutor Angel to create a a more advanced code that extracts botht the header and the data from the Mars table. I used the following class examples from Module 11 Data Collection day 3 for my code: #5 news_solution and #6 mars_facts_scrape_solution.  
